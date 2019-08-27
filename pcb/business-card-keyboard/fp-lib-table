@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name MJ-4PP-9)(type KiCad)(uri ${KIPRJMOD}/../kicad-MJ-4PP-9/MJ-4PP-9.pretty)(options "")(descr ""))
+  (lib (name Conn)(type KiCad)(uri ${KIPRJMOD}/../kicad-Conn/Conn.pretty)(options "")(descr ""))
+  (lib (name TVAF17-WEC-R)(type KiCad)(uri ${KIPRJMOD}/../kicad-TVAF17-WFC-R/TVAF17-WEC-R.pretty)(options "")(descr ""))
+  (lib (name SK6812MINI)(type KiCad)(uri ${KIPRJMOD}/../kicad-SK6812MINI/SK6812MINI.pretty)(options "")(descr ""))
+  (lib (name ATmega32U4)(type KiCad)(uri ${KIPRJMOD}/../kicad-ATmega32U4/ATmega32U4.pretty)(options "")(descr ""))
+  (lib (name USB-C-COM-15111)(type KiCad)(uri ${KIPRJMOD}/../kicad-USB-C/USB-C-COM-15111.pretty)(options "")(descr ""))
+  (lib (name Artwork)(type KiCad)(uri ${KIPRJMOD}/../Artwork/Artwork.pretty)(options "")(descr ""))
+  (lib (name MountingHole)(type KiCad)(uri ${KIPRJMOD}/../kicad-footprints/MountingHole.pretty)(options "")(descr ""))
+  (lib (name CPG135001S30)(type KiCad)(uri ${KIPRJMOD}/../kicad-CPG135001S30/CPG135001S30.pretty)(options "")(descr ""))
+)
