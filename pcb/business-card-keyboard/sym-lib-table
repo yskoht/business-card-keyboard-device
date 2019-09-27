@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name MJ-4PP-9)(type Legacy)(uri ${KIPRJMOD}/../kicad-MJ-4PP-9/MJ-4PP-9-symbol/MJ-4PP-9.lib)(options "")(descr ""))
-  (lib (name usb_c16pin)(type Legacy)(uri ${KIPRJMOD}/../kicad-USB-C/USB-C-16pin-symbol/usb_c16pin.lib)(options "")(descr ""))
-  (lib (name ATmega32U4)(type Legacy)(uri ${KIPRJMOD}/../kicad-ATmega32U4/ATmega32U4-symbol/ATmega32U4.lib)(options "")(descr ""))
-)
